@@ -2,7 +2,6 @@
 
 * Nav to the lesson directory
 * run `npm install`
-*
 
 
 | Lesson           | Directory       |
