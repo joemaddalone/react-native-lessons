@@ -7,3 +7,4 @@
 | Lesson           | Directory       |
 |------------------|-----------------|
 | TabBarIOS Basics | TabBarIOS-Basics|
+| TabBarIOS Customization | TabBarIOS-Customizing|
