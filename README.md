@@ -9,3 +9,4 @@
 | TabBarIOS Basics | TabBarIOS-Basics|
 | TabBarIOS Customization | TabBarIOS-Customizing|
 | Layout Animation Basics | LayoutAnimation-Basics|
+| PanResponder Basics | PanResponder-Basics|
