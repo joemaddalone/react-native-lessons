@@ -10,3 +10,4 @@
 | TabBarIOS Customization | TabBarIOS-Customizing|
 | Layout Animation Basics | LayoutAnimation-Basics|
 | PanResponder Basics | PanResponder-Basics|
+| Create a Swipe Panel | SwipePanel|
